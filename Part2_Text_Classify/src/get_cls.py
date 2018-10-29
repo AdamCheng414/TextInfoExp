@@ -1,5 +1,6 @@
 # encoding:utf-8
 
+from numpy import *
 import os
 import pandas as pd
 import sys
